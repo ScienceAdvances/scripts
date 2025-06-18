@@ -1,0 +1,20 @@
+{
+    "dir":"src/Enrich/",
+    "hsa":{
+        "GOBP":"GO_Biological_Process_2025.gmt",
+        "GOCC":"GO_Cellular_Component_2025.gmt",
+        "GOMF":"GO_Molecular_Function_2025.gmt",
+        "KEGG":"KEGG_2021_Human.gmt",
+        "reactome":"Reactome_2024.gmt",
+        "wikipathways":"WikiPathway_2024_Human.gmt"
+    },
+    "mmu":{
+        "gobp":"GO_Biological_Process_2025.gmt",
+        "gocc":"GO_Cellular_Component_2025.gmt",
+        "gomf":"GO_Molecular_Function_2025.gmt",
+        "kegg":"KEGG_2019_Mouse.gmt",
+        "reactome":"Reactome_2024.gmt",
+        "wikipathways":"WikiPathway_2024_Human.gmt"
+    }
+}
+
