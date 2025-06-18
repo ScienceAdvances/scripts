@@ -1,0 +1,8 @@
+module	number
+blue	8463
+brown	2507
+green	1007
+grey	6506
+red	685
+turquoise	14020
+yellow	1230

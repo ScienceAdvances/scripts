@@ -1,0 +1,14 @@
+name: trinity
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - nodefaults
+dependencies:
+  - trinity=2.15.2
+  - fastp=0.23.4
+  - cd-hit=4.8.1
+  - trinotate=4.0.2
+  - biopython
+  - transdecoder
+  - eggnog-mapper=2.1.12

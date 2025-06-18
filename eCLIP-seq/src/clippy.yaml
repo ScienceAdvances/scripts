@@ -1,0 +1,10 @@
+name: clippy
+channels:
+  - conda-forge
+  - bioconda
+  - anaconda
+  - defaults
+  - nodefaults
+dependencies:
+  - python=3.8
+  - clippy

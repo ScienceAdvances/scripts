@@ -1,0 +1,20 @@
+name: eCLIP2
+prefix: /home/data/wd/miniforge3/envs/eCLIP2
+channels:
+  - conda-forge
+  - bioconda
+  - iuc
+  - nodefaults
+dependencies:
+  - Pysam=0.12.0.1
+  - Bx=0.5.0
+  - HTSeq=0.11.2
+  - Numpy=1.10.2
+  - Pandas=0.23.1
+  - Pybedtools=0.8.1
+  - Sklearn=0.17.1
+  - Scipy=0.17.1
+  - Matplotlib=2.2.2
+  - Gffutils=0.8.7.1
+  - Statsmodels=0.6.1
+  - perl=5.10.1
