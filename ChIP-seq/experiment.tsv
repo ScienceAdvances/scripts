@@ -1,0 +1,5 @@
+SampleID	Group	ControlID	Replicate
+KO_1	KO	KO_1.input	1
+KO_2	KO	KO_2.input	2
+WT_1	WT	WT_1.input	1
+WT_2	WT	WT_2.input	2
