@@ -1,0 +1,7 @@
+Sample	Group	h5path
+S1	Control	./sc/data/S1.h5
+S2	Control	./sc/data/S1.h6
+S3	Control	./sc/data/S1.h7
+S4	Treatment	./sc/data/S1.h8
+S5	Treatment	./sc/data/S1.h9
+S6	Treatment	./sc/data/S1.h10
